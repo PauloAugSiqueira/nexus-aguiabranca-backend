@@ -3,7 +3,7 @@ spring:
     name: gabinova-backend
   data:
     mongodb:
-      uri: mongodb+srv://nexus_admin:nexus123456@cluster0.btimxem.mongodb.net/gabinova?retryWrites=true&w=majority&appName=Cluster0
+      uri: mongodb+srv://nexus_admin:Nexus2026.@cluster0.btimxem.mongodb.net/gabinova?retryWrites=true&w=majority&appName=Cluster0
   jackson:
     default-property-inclusion: non_null
 
