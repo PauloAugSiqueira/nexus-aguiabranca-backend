@@ -1,8 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb://localhost:27017/gabinova-test
-
-jwt:
-  secret: test-secret-key-for-junit-tests-only-32-bytes-min
-  expiration-hours: 1
